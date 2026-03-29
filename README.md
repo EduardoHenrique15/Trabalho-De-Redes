@@ -7,3 +7,4 @@
 - [Eduardo Henrique](https://github.com/EduardoHenrique15)
 - [Arthur Von Sohsten](https://github.com/arthurvonsohsten)
 - [Caio Fonseca](https://github.com/caiofoonseca)
+- [Caio Melo](https://github.com/CaioAugustoMachadoDeMelo)
