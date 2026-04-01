@@ -8,3 +8,4 @@
 - [Arthur Von Sohsten](https://github.com/arthurvonsohsten)
 - [Caio Fonseca](https://github.com/caiofoonseca)
 - [Caio Melo](https://github.com/CaioAugustoMachadoDeMelo)
+- [Ranilton Araújo](https://github.com/Ranilton10)
