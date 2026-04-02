@@ -10,3 +10,4 @@
 - [Caio Melo](https://github.com/CaioAugustoMachadoDeMelo)
 - [Ranilton Araújo](https://github.com/Ranilton10)
 - [vitor Veloso](https://github.com/vitor-veloso)
+- [Igor Moura](https://github.com/Igor-mn)
